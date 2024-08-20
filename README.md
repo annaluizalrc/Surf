@@ -1,10 +1,10 @@
-**O que é o surfe**
+# **O que é o surfe**
 
 O surfe é um esporte aquático no qual um indivíduo, conhecido como surfista, desliza (com sua prancha) a face frontal ou profunda de uma onda em movimento, que geralmente leva o surfista em direção à costa.
 
 Ondas adequadas para o surfe são encontradas principalmente no oceano, mas também podem ocorrer em lagos ou rios na forma de uma onda estacionária ou pororoca. Há também a prática do surfe em ondas produzidas artificialmente, embora não seja muito comum.
 
-**Origem e História do Surfe**
+## **Origem e História do Surfe**
 
 
 O surfe tem uma história que remonta a culturas antigas, principalmente na Polinésia. No [Havaí](https://m.suapesquisa.com/pesquisa/havai.htm), o surfe não era apenas um passatempo, mas uma parte integral da cultura, profundamente embutida na vida social e religiosa da sociedade. Chefes e plebeus praticavam o surfe, e a habilidade de um surfista era frequentemente ligada ao status social e ao prestígio.
